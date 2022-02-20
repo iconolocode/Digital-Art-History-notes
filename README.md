@@ -1,5 +1,6 @@
 # Digital Art History notes
 summaries of talks about Art History and Digital Methods
+
 *As the recordings are available online, I assume there isn't a problem with sharing my notes. If their authors wish to, I will remove them.*
 
 These are bullet points reworded by me and aren't perfectly accurate. Please refer to the original recording or writings of the author. 
