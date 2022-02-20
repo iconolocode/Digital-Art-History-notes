@@ -118,7 +118,7 @@ New techniques:
 -> can lead to interesting discoveries 
 
 ---
-# Emilie Gordenker: Dutch Old Masters and New Technologies
+## Emilie Gordenker: Dutch Old Masters and New Technologies
 
 https://youtu.be/euE6obcJlek
 
